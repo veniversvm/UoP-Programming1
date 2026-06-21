@@ -1,10 +1,4 @@
-¡Tienes toda la razón! Disculpa por la redundancia. Si el código completo ya vive en los archivos de tu repositorio, el documento Markdown (como un `README.md` o wiki) debe enfocarse exclusivamente en la teoría, la arquitectura y los diagramas de flujo para no duplicar información.
 
-Aquí tienes la versión ajustada y extendida en inglés, **sin el bloque de código completo**, enfocada puramente en documentar la lógica y el flujo del sistema:
-
-***
-
-```markdown
 # ☕ Programming Solutions for a Small Café: The Digital Barista
 
 ## 1. What Is Programming and Why It Matters for the Café
@@ -131,5 +125,3 @@ flowchart TD
 *   **Python Software Foundation.** (2023). *Built-in Types*. Retrieved from https://docs.python.org/3/library/stdtypes.html
 *   **Severance, C. R.** (2016). *Python for Everybody: Exploring Data in Python 3*. Retrieved from https://www.py4e.com/book.php
 
-*(Note: This document effectively bridges the gap between everyday café operations and computer science logic by explaining fundamental data types, assignment operators, and control flow tools.)*
-```
